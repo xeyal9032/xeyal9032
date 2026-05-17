@@ -20,10 +20,8 @@
 
 ---
 
-### 🚀 Über mich / About Me
-*Softwareentwickler mit Schwerpunkt auf moderner Web- und Anwendungsentwicklung. Erfahrung in der Umsetzung wartbarer Architekturen, API-Integrationen und qualitätsorientierter Entwicklung mit TypeScript/JavaScript sowie gängigen Frameworks.*
-
-*Gewohnt an agile Zusammenarbeit, Code Reviews und kontinuierliche Verbesserung. Analytisch, teamorientiert und motiviert, komplexe Anforderungen in stabile, nutzerfreundliche Lösungen zu übersetzen.*
+### 🚀 About Me
+Software developer with a focus on modern web and application development. Experience in implementing maintainable architectures, API integrations, and quality-oriented development with TypeScript/JavaScript and common frameworks. Accustomed to agile collaboration, code reviews, and continuous improvement. Analytical, team-oriented, and motivated to translate complex requirements into stable, user-friendly solutions.
 
 ---
 
@@ -49,13 +47,13 @@
 
 ---
 
-### 🗣️ Sprachen / Languages
-- <img src="https://flagcdn.com/w20/az.png" width="20" alt="Azerbaijan"> **Aserbaidschanisch** (Muttersprache)
-- <img src="https://flagcdn.com/w20/tr.png" width="20" alt="Turkey"> **Türkisch** (Verhandlungssicher / Professional)
-- <img src="https://flagcdn.com/w20/ru.png" width="20" alt="Russia"> **Russisch** (Verhandlungssicher / Professional)
-- <img src="https://flagcdn.com/w20/ua.png" width="20" alt="Ukraine"> **Ukrainisch** (Verhandlungssicher / Professional)
-- <img src="https://flagcdn.com/w20/de.png" width="20" alt="Germany"> **Deutsch** (Gute Kenntnisse / Intermediate)
-- <img src="https://flagcdn.com/w20/gb.png" width="20" alt="UK"> **Englisch** (Gute Kenntnisse / Intermediate)
+### 🗣️ Languages
+- <img src="https://flagcdn.com/w20/az.png" width="20" alt="Azerbaijan"> **Azerbaijani** (Native)
+- <img src="https://flagcdn.com/w20/tr.png" width="20" alt="Turkey"> **Turkish** (Professional)
+- <img src="https://flagcdn.com/w20/ru.png" width="20" alt="Russia"> **Russian** (Professional)
+- <img src="https://flagcdn.com/w20/ua.png" width="20" alt="Ukraine"> **Ukrainian** (Professional)
+- <img src="https://flagcdn.com/w20/de.png" width="20" alt="Germany"> **German** (Intermediate)
+- <img src="https://flagcdn.com/w20/gb.png" width="20" alt="UK"> **English** (Intermediate)
 
 ---
 
