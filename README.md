@@ -47,6 +47,13 @@ Software developer with a focus on modern web and application development. Exper
 
 ---
 
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xeyal9032/xeyal9032/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
 ### 🗣️ Languages
 - <img src="https://flagcdn.com/w20/az.png" width="20" alt="Azerbaijan"> **Azerbaijani** (Native)
 - <img src="https://flagcdn.com/w20/tr.png" width="20" alt="Turkey"> **Turkish** (Professional)
