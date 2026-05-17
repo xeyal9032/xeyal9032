@@ -50,12 +50,12 @@
 ---
 
 ### 🗣️ Sprachen / Languages
-- 🇦🇿 **Aserbaidschanisch** (Muttersprache)
-- 🇹🇷 **Türkisch** (Fließend)
-- 🇷🇺 **Russisch** (Fließend)
-- 🇺🇦 **Ukrainisch** (Fließend)
-- 🇩🇪 **Deutsch** (Professionell)
-- 🇬🇧 **Englisch** (Professionell)
+- <img src="https://flagcdn.com/w20/az.png" width="20" alt="Azerbaijan"> **Aserbaidschanisch** (Muttersprache)
+- <img src="https://flagcdn.com/w20/tr.png" width="20" alt="Turkey"> **Türkisch** (Fließend)
+- <img src="https://flagcdn.com/w20/ru.png" width="20" alt="Russia"> **Russisch** (Fließend)
+- <img src="https://flagcdn.com/w20/ua.png" width="20" alt="Ukraine"> **Ukrainisch** (Fließend)
+- <img src="https://flagcdn.com/w20/de.png" width="20" alt="Germany"> **Deutsch** (Professionell)
+- <img src="https://flagcdn.com/w20/gb.png" width="20" alt="UK"> **Englisch** (Professionell)
 
 ---
 
