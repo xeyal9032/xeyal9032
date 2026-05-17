@@ -21,19 +21,31 @@
 ---
 
 ### 🚀 Über mich / About Me
-*Softwareentwickler mit Schwerpunkt auf moderner Web- und Anwendungsentwicklung. Erfahrung in der Umsetzung wartbarer Architekturen, API-Integrationen ve qualitätsorientierter Entwicklung mit TypeScript/JavaScript sowie gängigen Frameworks.*
+*Softwareentwickler mit Schwerpunkt auf moderner Web- und Anwendungsentwicklung. Erfahrung in der Umsetzung wartbarer Architekturen, API-Integrationen und qualitätsorientierter Entwicklung mit TypeScript/JavaScript sowie gängigen Frameworks.*
 
-*Gewohnt an agile Zusammenarbeit, Code Reviews ve kontinuierliche Verbesserung. Analytisch, teamorientiert ve motiviert, komplexe Anforderungen in stabile, nutzerfreundliche Lösungen zu übersetzen.*
+*Gewohnt an agile Zusammenarbeit, Code Reviews und kontinuierliche Verbesserung. Analytisch, teamorientiert und motiviert, komplexe Anforderungen in stabile, nutzerfreundliche Lösungen zu übersetzen.*
 
 ---
 
 ### 💻 Technical Expertise
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,git,figma" alt="Skill Icons" />
+</p>
+
 | Area | Technologies |
 | :--- | :--- |
-| **Frontend** | `TypeScript` `JavaScript` `React` `HTML5` `CSS3` `TailwindCSS` |
+| **Frontend** | `TypeScript` `JavaScript` `React` `HTML5` `CSS3` |
 | **Backend & APIs** | `Node.js` `REST APIs` `JSON` `SQL Basics` |
-| **Tools & Workflow** | `Git` `VS Code` `Figma (UI/UX)` `Agile (Scrum/Kanban)` |
+| **Tools & Workflow** | `Git` `VS Code` `Figma` `Agile` |
+
+---
+
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xeyal9032&theme=tokyonight" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
