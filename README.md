@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xeyal9032&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <a href="https://frontend.ostwind.az" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-frontend.ostwind.az-007ACC?style=flat-square&logo=browser&logoColor=white" alt="Portfolio" />
   </a>
@@ -17,9 +21,9 @@
 ---
 
 ### 🚀 Über mich / About Me
-*Softwareentwickler mit Schwerpunkt auf moderner Web- und Anwendungsentwicklung. Erfahrung in der Umsetzung wartbarer Architekturen, API-Integrationen und qualitätsorientierter Entwicklung mit TypeScript/JavaScript sowie gängigen Frameworks.*
+*Softwareentwickler mit Schwerpunkt auf moderner Web- und Anwendungsentwicklung. Erfahrung in der Umsetzung wartbarer Architekturen, API-Integrationen ve qualitätsorientierter Entwicklung mit TypeScript/JavaScript sowie gängigen Frameworks.*
 
-*Gewohnt an agile Zusammenarbeit, Code Reviews und kontinuierliche Verbesserung. Analytisch, teamorientiert und motiviert, komplexe Anforderungen in stabile, nutzerfreundliche Lösungen zu übersetzen.*
+*Gewohnt an agile Zusammenarbeit, Code Reviews ve kontinuierliche Verbesserung. Analytisch, teamorientiert ve motiviert, komplexe Anforderungen in stabile, nutzerfreundliche Lösungen zu übersetzen.*
 
 ---
 
