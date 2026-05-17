@@ -43,19 +43,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xeyal9032&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeyal9032&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xeyal9032&theme=tokyonight" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
 ### 🎓 Education & Certifications
 - 🎓 **Master in Research Engineering** (National University of Radio Electronics)
 - 🎓 **Bachelor in Automation & IT** (National University of Radio Electronics)
