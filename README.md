@@ -50,12 +50,12 @@
 ---
 
 ### 🗣️ Sprachen / Languages
-- **Aserbaidschanisch** (Muttersprache)
-- **Türkisch** (Fließend)
-- **Russisch** (Fließend)
-- **Ukrainisch** (Fließend)
-- **Deutsch** (Professionell)
-- **Englisch** (Professionell)
+- 🇦🇿 **Aserbaidschanisch** (Muttersprache)
+- 🇹🇷 **Türkisch** (Fließend)
+- 🇷🇺 **Russisch** (Fließend)
+- 🇺🇦 **Ukrainisch** (Fließend)
+- 🇩🇪 **Deutsch** (Professionell)
+- 🇬🇧 **Englisch** (Professionell)
 
 ---
 
