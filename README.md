@@ -20,6 +20,48 @@
 
 ---
 
+### ⭐ Featured Project — [Xeyal System](https://github.com/xeyal9032/xeyal-system)
+
+<p align="center">
+  <a href="https://github.com/xeyal9032/xeyal-system">
+    <img src="https://raw.githubusercontent.com/xeyal9032/xeyal-system/main/docs/assets/dashboard-preview.png" width="92%" alt="Xeyal System — Cloud Dashboard"/>
+  </a>
+</p>
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+**Autonomous Developer OS + AI Error Intelligence Cloud**
+
+- ⚡ One-command dev environment (`npx xeyal-system dev`)
+- 🧠 Local Ollama AI · hybrid cloud analysis
+- ☁️ SDK → Express API → PostgreSQL → React dashboard
+- 🖥️ Tauri 2 desktop · Forge AI Studio · Swarm agents
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/View-xeyal--system-06b6d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xeyal9032/xeyal-system)
+
+[![Stars](https://img.shields.io/github/stars/xeyal9032/xeyal-system?style=for-the-badge&logo=github&label=Stars)](https://github.com/xeyal9032/xeyal-system/stargazers)
+
+<br/>
+
+`developer-tools` · `ollama` · `tauri` · `ai` · `error-tracking`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xeyal9032/xeyal-system/main/docs/assets/demo.gif" width="92%" alt="Xeyal System Demo"/>
+</p>
+
+---
+
 ### 🚀 About Me
 Software developer with a focus on modern web and application development. Experience in implementing maintainable architectures, API integrations, and quality-oriented development with TypeScript/JavaScript and common frameworks. Accustomed to agile collaboration, code reviews, and continuous improvement. Analytical, team-oriented, and motivated to translate complex requirements into stable, user-friendly solutions.
 
