@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xeyal9032&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=xeyal9032&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%"/>
 </p>
 
 <p align="center">
