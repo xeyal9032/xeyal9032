@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/xeyal9032/xeyal-system">
-    <img src="https://raw.githubusercontent.com/xeyal9032/xeyal-system/main/docs/assets/dashboard-preview.png" width="92%" alt="Xeyal System — Cloud Dashboard"/>
+    <img src="https://raw.githubusercontent.com/xeyal9032/xeyal-system/main/docs/assets/desktop-app-exe.png" width="92%" alt="Xeyal-System Desktop — Autonomous Developer OS"/>
   </a>
 </p>
 
@@ -32,12 +32,12 @@
 <tr>
 <td width="62%" valign="top">
 
-**Autonomous Developer OS + AI Error Intelligence Cloud**
+**Autonomous Developer OS — Tauri 2 Masaüstü + AI Cloud**
 
-- ⚡ One-command dev environment (`npx xeyal-system dev`)
-- 🧠 Local Ollama AI · hybrid cloud analysis
+- 🖥️ Native `.exe` — Cockpit, AI Forge, Swarm, Skills Hub
+- ⚡ One-command dev environment · yerel Ollama AI
 - ☁️ SDK → Express API → PostgreSQL → React dashboard
-- 🖥️ Tauri 2 desktop · Forge AI Studio · Swarm agents
+- 🔨 21+ Forge şablonu · otonom proje oluşturma
 
 </td>
 <td width="38%" valign="top" align="center">
@@ -46,18 +46,16 @@
 
 [![Repo](https://img.shields.io/badge/View-xeyal--system-06b6d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xeyal9032/xeyal-system)
 
+[![Desktop](https://img.shields.io/badge/Kurulum-Desktop_EXE-24c8db?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/xeyal9032/xeyal-system/blob/main/docs/DESKTOP.md)
+
 [![Stars](https://img.shields.io/github/stars/xeyal9032/xeyal-system?style=for-the-badge&logo=github&label=Stars)](https://github.com/xeyal9032/xeyal-system/stargazers)
-
-<br/>
-
-`developer-tools` · `ollama` · `tauri` · `ai` · `error-tracking`
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xeyal9032/xeyal-system/main/docs/assets/demo.gif" width="92%" alt="Xeyal System Demo"/>
+  <img src="https://raw.githubusercontent.com/xeyal9032/xeyal-system/main/docs/assets/desktop-demo.gif" width="92%" alt="Xeyal Desktop Demo"/>
 </p>
 
 ---
