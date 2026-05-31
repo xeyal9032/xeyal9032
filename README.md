@@ -3,8 +3,44 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=xeyal9032&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=680&lines=Web+Designer+%26+Developer;React+%C2%B7+Node.js+%C2%B7+TypeScript;Building+Modern+Digital+Experiences" alt="Typing animation" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,express,postgres,git,docker,figma,vscode&theme=dark&perline=8" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/xeyal9032?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-12-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
+  <a href="https://frontend.ostwind.az"><img src="https://img.shields.io/badge/OstWind-Group-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="OstWind"/></a>
+  <a href="https://github.com/xeyal9032/xeyal-system"><img src="https://img.shields.io/badge/Project-Xeyal_System-06b6d4?style=for-the-badge&logo=tauri&logoColor=white" alt="Xeyal System"/></a>
+  <img src="https://komarev.com/ghpvc/?username=xeyal9032&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Focus-Frontend-6366f1?style=flat-square"/>
+<br/><br/>
+<b>UI / UX</b><br/>
+<sub>React · Next.js · Tailwind</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Focus-Backend-0ea5e9?style=flat-square"/>
+<br/><br/>
+<b>APIs</b><br/>
+<sub>Node.js · REST · PostgreSQL</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Focus-AI_Tools-8b5cf6?style=flat-square"/>
+<br/><br/>
+<b>Automation</b><br/>
+<sub>AI · Developer OS · SaaS</sub>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <p align="center">
   <a href="https://frontend.ostwind.az" target="_blank">
